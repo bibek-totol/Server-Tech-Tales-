@@ -1,7 +1,25 @@
-
-
-
 # Project Name: Tech-Tales: A Blog Application
+# APK Link: 
+https://drive.google.com/file/d/1LCjwo5-668ycSlamGpGeYHWOdW_JleuP/view?usp=sharing
+# Project UI(App)
+![Image](https://github.com/user-attachments/assets/55204e11-508f-4b0e-97bb-d63654a68c3e)
+![Image](https://github.com/user-attachments/assets/9fa06f94-e0ae-44ba-86dc-26ef861ff2c1)
+![Image](https://github.com/user-attachments/assets/e4b729a4-1a1f-400c-8494-bd963f75071b)
+![Image](https://github.com/user-attachments/assets/6b81f5d4-662e-4ebd-958f-431f29941a91)
+![Image](https://github.com/user-attachments/assets/a52f04bf-925f-4da5-b795-30b67e6d5795)
+![Image](https://github.com/user-attachments/assets/7a4f2470-d698-473c-b1a8-b66851ffaaa7)
+![Image](https://github.com/user-attachments/assets/39e40936-38ce-44f9-8705-baf2029ab9ac)
+![Image](https://github.com/user-attachments/assets/4b6298b2-1205-4484-8887-e7fa491fb1cc)
+![Image](https://github.com/user-attachments/assets/8347e878-4c8f-4110-a43c-84bc733ef8cd)
+![Image](https://github.com/user-attachments/assets/a56d02fa-06d6-46aa-986b-ab29929bc28e)
+![Image](https://github.com/user-attachments/assets/e4896298-94be-4892-b1b2-fb8037a3eaf7)
+![Image](https://github.com/user-attachments/assets/8c8cb559-ab60-4e83-a33b-42495e95677c)
+![Image](https://github.com/user-attachments/assets/4534b15f-81d4-4fc4-93fe-e52faf63972f)
+![Image](https://github.com/user-attachments/assets/360a90aa-0f98-4b00-80ac-2a30069796d3)
+![Image](https://github.com/user-attachments/assets/320b8a59-b0a0-4ffa-83a0-f16798fc8916)
+
+
+
 # Project Category: 05
 # Live Site Link: https://tech-tales2025.netlify.app/
 
@@ -81,7 +99,7 @@
 # Welcome to the Blog Website Development project! We're seeking a talented Front-End Developer to help bring our next-generation blog website to life. This exciting project will allow you to design and implement beautiful, responsive web pages, collaborating with designers and back-end developers. The project involves creating a dynamic, user-friendly experience for visitors, using modern technologies like React and Firebase.
 
 
-### Project UI:
+### Website UI:
 ![Screenshot_14](https://github.com/user-attachments/assets/2ad95d0a-ca4f-409c-b508-93b8cbfe0e0f)
 
 ![Screenshot_9](https://github.com/user-attachments/assets/5632efaf-a3a0-4f64-9cbd-a33604fc4ae6)
